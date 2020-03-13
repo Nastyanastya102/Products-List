@@ -1,0 +1,22 @@
+ul,li{
+    list-style-type: none;
+    margin: 5px 0;
+    padding: 5px;
+}
+.Container-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.Container-item{
+    width: 23%;
+    margin: 15px 0;
+    border: .4px solid #5544558e;
+    border-radius: 10px;
+}
+.Container-image{
+    width: 150px;
+}
+span{
+    font-size: 25px;
+}
